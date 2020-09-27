@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "7b4b851d7909b38e",
+    "type": "split",
+    "children": [
+      {
+        "id": "90880a71c865954a",
+        "type": "leaf",
+        "dimension": 45.13888888888889,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Builder Pattern.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3512a007774d0b7b",
+        "type": "leaf",
+        "dimension": 54.861111111111114,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Builder Pattern.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5f8c3d78a770028",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d48980d4591a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278627fd9cc521a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acd74e1f7cc5f02a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "40e08c26ca1afb7f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 133
+  },
+  "right": {
+    "id": "a2e200a0d1af6f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "15fb184046c01f29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab8f0f15628b2cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Builder Pattern.md"
+              }
+            }
+          },
+          {
+            "id": "2a8c0b905e87501c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Builder Pattern.md",
+    "Untitled.md"
+  ]
+}

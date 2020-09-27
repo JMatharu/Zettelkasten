@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "2dcbb02ab5b3f392",
+    "type": "split",
+    "children": [
+      {
+        "id": "e717454cf3351aad",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Technical Questions.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "07073fbfc3c4ab75",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Technical Questions.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa9c55eb63f92744",
+    "type": "split",
+    "children": [
+      {
+        "id": "b93f5254d70a8e5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da775b51e126631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db9ffe19ca285c0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "f889f169c06781fe",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 124
+  },
+  "right": {
+    "id": "dd3bed2005e73de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5a597ed5fc67a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882fff1a24b968f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technical Questions.md"
+              }
+            }
+          },
+          {
+            "id": "f0086e810fdb3248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          },
+          {
+            "id": "322c69e1bced1c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technical Questions.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Technical Questions.md",
+    "Untitled.md"
+  ]
+}
