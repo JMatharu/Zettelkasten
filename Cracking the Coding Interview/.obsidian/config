@@ -22,5 +22,11 @@
   },
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "useMarkdownLinks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "vimMode": false
 }

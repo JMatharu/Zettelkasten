@@ -6,6 +6,8 @@
       {
         "id": "e717454cf3351aad",
         "type": "leaf",
+        "dimension": 49.91803278688525,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +19,7 @@
       {
         "id": "07073fbfc3c4ab75",
         "type": "leaf",
-        "active": true,
+        "dimension": 50.08196721311475,
         "state": {
           "type": "markdown",
           "state": {
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 124
+    "width": 124,
+    "collapsed": true
   },
   "right": {
     "id": "dd3bed2005e73de9",
@@ -115,6 +118,8 @@
   },
   "lastOpenFiles": [
     "Technical Questions.md",
+    "Screen Shot 2020-09-28 at 9.58.19 PM.png",
+    "2020-09-28.md",
     "Untitled.md"
   ]
 }
