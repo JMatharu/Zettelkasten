@@ -9,6 +9,7 @@
 ### Core Data Structure / Algorithms / Concepts
 
 ![[Screen Shot 2020-09-27 at 6.26.34 PM.png]]
+![[../master/Screen Shot 2020-09-27 at 6.26.34 PM.png?raw=true]]
 
 Keep an eye on space and time complexity 
 
