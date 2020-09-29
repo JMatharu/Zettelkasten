@@ -6,23 +6,24 @@
       {
         "id": "e717454cf3351aad",
         "type": "leaf",
-        "dimension": 64.44444444444444,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Technical Questions.md",
+            "file": "Technical Questions/3. Walking through a problem.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "07073fbfc3c4ab75",
+        "id": "686369c3817d2a48",
         "type": "leaf",
-        "dimension": 35.55555555555556,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Technical Questions/3. Walking through a problem.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 124
+    "width": 231
   },
   "right": {
     "id": "dd3bed2005e73de9",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Questions.md"
+                "file": "Technical Questions/3. Walking through a problem.md"
               }
             }
           },
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Questions.md"
+                "file": "Technical Questions/3. Walking through a problem.md"
               }
             }
           }
@@ -113,10 +114,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Technical Questions.md",
-    "screenshot/Screen Shot 2020-09-27 at 6.26.34 PM.png",
-    "Screen Shot 2020-09-28 at 9.58.19 PM.png",
-    "2020-09-28.md",
-    "Untitled.md"
+    "Technical Questions/3. Walking through a problem.md",
+    "Technical Questions/4. Optimize & Solve Technique #1 Look for BUD.md",
+    "Technical Questions/1. How to Prepare.md",
+    "Technical Questions/Untitled.md",
+    "Technical Questions/3. Walking through.md",
+    "Untitled.md",
+    "Technical Questions/2. What you need to know.md",
+    "Technical Questions/Technical Questions.md",
+    "Technical Questions/What you need to know.md",
+    "Technical Questions.md"
   ]
 }

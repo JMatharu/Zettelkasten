@@ -28,5 +28,8 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "vimMode": false
+  "vimMode": false,
+  "spellcheckDictionary": [
+    "Modularized"
+  ]
 }
