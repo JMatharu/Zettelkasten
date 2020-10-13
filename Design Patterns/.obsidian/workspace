@@ -11,7 +11,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Pattern Space.md",
+            "file": "Design Pattern Relationship.md",
             "mode": "source"
           }
         },
@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Pattern Space.md",
+            "file": "Design Pattern Relationship.md",
             "mode": "preview"
           }
         },
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 153,
-    "collapsed": true
+    "width": 239
   },
   "right": {
     "id": "a2e200a0d1af6f64",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern Space.md"
+                "file": "Design Pattern Relationship.md"
               }
             }
           },
@@ -109,8 +108,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Design Pattern Space.md",
     "Untitled.md",
+    "Design Pattern Space.md",
     "Creational/Abstract Factory.md",
     "Creational/Builder.md",
     "Behavioral/Observer.md",
