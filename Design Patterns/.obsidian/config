@@ -23,5 +23,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

@@ -4,29 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "90880a71c865954a",
+        "id": "9c4efea0032908d7",
         "type": "leaf",
-        "dimension": 45.13888888888889,
+        "dimension": 42.950819672131146,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Builder Pattern.md",
+            "file": "Design Pattern Space.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "cc72a7d675b48b5f"
       },
       {
-        "id": "3512a007774d0b7b",
+        "id": "f325614cf029b1e6",
         "type": "leaf",
-        "dimension": 54.861111111111114,
+        "dimension": 57.049180327868854,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Builder Pattern.md",
+            "file": "Design Pattern Space.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "cc72a7d675b48b5f"
       }
     ],
     "direction": "vertical"
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "tag:#creational"
               }
             }
           },
@@ -69,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 133
+    "width": 153,
+    "collapsed": true
   },
   "right": {
     "id": "a2e200a0d1af6f64",
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Builder Pattern.md"
+                "file": "Design Pattern Space.md"
               }
             }
           },
@@ -97,14 +100,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Builder Pattern.md",
-    "Untitled.md"
+    "Design Pattern Space.md",
+    "Untitled.md",
+    "Creational/Abstract Factory.md",
+    "Creational/Builder.md",
+    "Behavioral/Observer.md",
+    "Structural/Decorator.md",
+    "Structural/Composite.md",
+    "Structural/Adapter.md",
+    "Behavioral/Template Method.md",
+    "Behavioral/Strategy.md"
   ]
 }
