@@ -1,1 +1,1 @@
-Pattern Type - #behaviour
+Pattern Type - #behavior

@@ -6,13 +6,12 @@
       {
         "id": "9c4efea0032908d7",
         "type": "leaf",
-        "dimension": 42.950819672131146,
-        "active": true,
+        "dimension": 51.12903225806451,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Pattern Relationship.md",
-            "mode": "source"
+            "file": "Behavioral/Strategy.md",
+            "mode": "preview"
           }
         },
         "group": "cc72a7d675b48b5f"
@@ -20,12 +19,13 @@
       {
         "id": "f325614cf029b1e6",
         "type": "leaf",
-        "dimension": 57.049180327868854,
+        "dimension": 48.87096774193548,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Pattern Relationship.md",
-            "mode": "preview"
+            "file": "Behavioral/Strategy.md",
+            "mode": "source"
           }
         },
         "group": "cc72a7d675b48b5f"
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#creational"
+                "query": "tag:#behavior"
               }
             }
           },
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239
+    "width": 239,
+    "collapsed": true
   },
   "right": {
     "id": "a2e200a0d1af6f64",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern Relationship.md"
+                "file": "Behavioral/Strategy.md"
               }
             }
           },
@@ -108,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Design Pattern Space.md",
+    "Behavioral/Strategy.md",
     "Creational/Abstract Factory.md",
-    "Creational/Builder.md",
-    "Behavioral/Observer.md",
-    "Structural/Decorator.md",
-    "Structural/Composite.md",
+    "Structural/Flyweight.md",
     "Structural/Adapter.md",
+    "Structural/Composite.md",
+    "Structural/Decorator.md",
+    "Creational/Factory.md",
     "Behavioral/Template Method.md",
-    "Behavioral/Strategy.md"
+    "Behavioral/Observer.md",
+    "Creational/Untitled.md"
   ]
 }
