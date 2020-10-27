@@ -6,29 +6,49 @@
       {
         "id": "9c4efea0032908d7",
         "type": "leaf",
-        "dimension": 51.12903225806451,
+        "dimension": 47.3164713140037,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Behavioral/Strategy.md",
-            "mode": "preview"
+            "file": "Structural/Decorator.md",
+            "mode": "source"
           }
         },
         "group": "cc72a7d675b48b5f"
       },
       {
-        "id": "f325614cf029b1e6",
-        "type": "leaf",
-        "dimension": 48.87096774193548,
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Behavioral/Strategy.md",
-            "mode": "source"
+        "id": "73f9821ba4291709",
+        "type": "split",
+        "dimension": 52.68352868599629,
+        "children": [
+          {
+            "id": "f325614cf029b1e6",
+            "type": "leaf",
+            "dimension": 73.68941641938675,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Structural/Decorator.md",
+                "mode": "preview"
+              }
+            },
+            "group": "cc72a7d675b48b5f"
+          },
+          {
+            "id": "226b22b4961a9f42",
+            "type": "leaf",
+            "dimension": 26.310583580613255,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Behavioral/Strategy.md",
+                "mode": "preview"
+              }
+            }
           }
-        },
-        "group": "cc72a7d675b48b5f"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behavioral/Strategy.md"
+                "file": "Structural/Decorator.md"
               }
             }
           },
@@ -109,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Behavioral/Strategy.md",
-    "Creational/Abstract Factory.md",
-    "Structural/Flyweight.md",
-    "Structural/Adapter.md",
-    "Structural/Composite.md",
     "Structural/Decorator.md",
-    "Creational/Factory.md",
+    "Behavioral/Strategy.md",
+    "Creational/Singleton.md",
+    "Creational/Builder.md",
+    "Creational/Abstract Factory.md",
     "Behavioral/Template Method.md",
-    "Behavioral/Observer.md",
-    "Creational/Untitled.md"
+    "Structural/Composite.md",
+    "Structural/Adapter.md",
+    "2020-10-24.md",
+    "Design Pattern Space.md"
   ]
 }
