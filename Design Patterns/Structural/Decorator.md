@@ -65,10 +65,26 @@ Use Decorator
 
 ## Consequences
 #### Benefits
-- q
+- ___More flexibility than static Inheritance___ - The Decorator pattern provides a more flexible way to add responsibilities to objects than can be had with static (multiple) inheritance.
+	- With decorators, responsibilities can be added and removed at run-time simply by attaching and detaching them.
+	- In contrast, inheritance requires creating a new class for each additional responsibility. This gives rise to many classes and increases the complexity of a system.
+	- Providing different Decorator classes for a specific Component class lets you mix and match responsibilities.
+	- Decorators also make it easy to add a property twice.
+		- For example - For double cheese pizza just add Mozzarella Decorator twice, where as inheriting will be error prone
+- ___Avoids feature-laden classes high up in the hierarchy___ - 
+	- Decorator offers a pay as-you-go approach to adding responsibilities.
+	- Instead of trying to support all foreseeable features in a complex, customizable class, you can define a simple class and add functionality incrementally with Decorator objects.
+	- Functionality can be composed from simple pieces. A s a result, an application needn't pay for features it doesn't use.
+	- It's also easy to define new kinds of Decorators independently from the classes of objects they extend, even for unforeseen extensions.
+	- Extending a complex class tends to expose details unrelated to the responsibilities you're adding.
 
-#### Drawbacks
-- a
+
+#### Liabilities
+- ___A decorator and its component aren't identical___ - A decorator acts as a transparent enclosure. But from an object identity point of view, a decorated component is not identical to the component itself. Hence you shouldn't rely on object identity when you use decorators.
+- ___Lots of little objects.___ - 
+	- A design that uses Decorator often results in systems composed of lots of little objects that all look alike.
+	- The objects differ only in the way they are interconnected, not in their class or in the value of their variables.
+	- Although these systems are easy to customize by those who understand them, they can be hard to learn and debug.
 
 ---
 ## Implementation

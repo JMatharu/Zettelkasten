@@ -25,5 +25,6 @@
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "enabledPlugins": []
 }
