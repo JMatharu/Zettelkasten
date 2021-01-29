@@ -4,51 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4efea0032908d7",
+        "id": "f325614cf029b1e6",
         "type": "leaf",
-        "dimension": 47.3164713140037,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Structural/Decorator.md",
-            "mode": "source"
+            "file": "Behavioral/Strategy.md",
+            "mode": "preview"
           }
-        },
-        "group": "cc72a7d675b48b5f"
-      },
-      {
-        "id": "73f9821ba4291709",
-        "type": "split",
-        "dimension": 52.6835286859963,
-        "children": [
-          {
-            "id": "f325614cf029b1e6",
-            "type": "leaf",
-            "dimension": 73.68941641938675,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Structural/Decorator.md",
-                "mode": "preview"
-              }
-            },
-            "group": "cc72a7d675b48b5f"
-          },
-          {
-            "id": "226b22b4961a9f42",
-            "type": "leaf",
-            "dimension": 26.310583580613255,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Behavioral/Strategy.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -75,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#behavior"
+                "query": "tag:#behavior",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -91,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239,
-    "collapsed": true
+    "width": 239
   },
   "right": {
     "id": "a2e200a0d1af6f64",
@@ -108,7 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Structural/Decorator.md"
+                "file": "Behavioral/Strategy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -117,7 +91,10 @@
             "type": "leaf",
             "state": {
               "type": "tag",
-              "state": {}
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -129,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Structural/Decorator.md",
     "Behavioral/Strategy.md",
-    "Creational/Singleton.md",
-    "Creational/Builder.md",
-    "Creational/Abstract Factory.md",
-    "Behavioral/Template Method.md",
+    "Behavioral/Observer.md",
+    "Structural/Flyweight.md",
+    "Structural/Decorator.md",
     "Structural/Composite.md",
     "Structural/Adapter.md",
-    "2020-10-24.md",
-    "Design Pattern Space.md"
+    "Creational/Singleton.md",
+    "Creational/Factory.md",
+    "Creational/Builder.md",
+    "Creational/Abstract Factory.md"
   ]
 }
